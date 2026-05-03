@@ -8,7 +8,7 @@ Built with a focus on clean UI, smooth interactions, and practical features like
 
 ## Live Demo
 
-🔗 https://your-dashboard.vercel.app
+ [https://analytic-dashboard.vercel.app](https://analytic-dashboard-mu.vercel.app)
 
 ---
 
